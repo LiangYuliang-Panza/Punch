@@ -5,38 +5,6 @@
 #  today_temperature: 今日体温
 #  today_health_status: 今日健康状况："正常"，"不适"
 #  current_location: 目前所在地："在家"，"在校"，"在外地"，"在返校途中"，"在离校途中"
-s001:
-  name: "梁宇亮"
-  student_num: "2017050889"
-  password: "LYLpanza0621FPY"
-  today_temperature: "36"
-  today_health_status: "正常"
-  current_location: "在校"
-  room: "212"
-s002:
-  name: "樊佩沂"
-  student_num: "2017050878"
-  password: "Fanpeiyi123."
-  today_temperature: "36.5"
-  today_health_status: "正常"
-  current_location: "在校"
-  room: "604"
-s003:
-  name: "林良梁"
-  student_num: "2017050872"
-  password: "PRpaopao990924!"
-  today_temperature: "36"
-  today_health_status: "正常"
-  current_location: "在校"
-  room: "212"
-s004:
-  name: "谢珂颖"
-  student_num: "2017053799"
-  password: "Shaking0101"
-  today_temperature: "36"
-  today_health_status: "正常"
-  current_location: "在校"
-  room: "605"
 
 #s00x:
 #  name: ""
