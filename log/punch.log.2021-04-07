@@ -1,0 +1,354 @@
+2021-04-07 00:47:06,570   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="f14884a2-6b8b-4b7d-8163-c4dcc309e502")>
+2021-04-07 00:47:06,573   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050889'
+2021-04-07 00:47:06,573   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:47:06,592   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:47:06,609   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050889'
+2021-04-07 00:47:06,695   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'LYLpanza0621FPY'
+2021-04-07 00:47:06,695   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:47:06,699   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:47:06,710   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'LYLpanza0621FPY'
+2021-04-07 00:47:06,758   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:47:06,758   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:47:06,758   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:47:08,029   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="f14884a2-6b8b-4b7d-8163-c4dcc309e502")>
+2021-04-07 00:47:08,030   INFO   [punch_logger]   [page_commit.py(page_input_temperature:21)] - [page_commit]:正在输入今日体温：'36℃'
+2021-04-07 00:47:08,030   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:47:08,110   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:47:08,159   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36'
+2021-04-07 00:47:08,197   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:48)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:47:08,197   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:47:08,197   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:47:08,446   INFO   [punch_logger]   [page_commit.py(page_click_address:60)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:47:08,447   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:47:08,448   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:47:08,738   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:32)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:47:08,738   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:47:08,748   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:35)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:47:08,989   INFO   [punch_logger]   [page_commit.py(page_click_commit:42)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:47:08,989   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:47:08,990   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:47:09,241   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="f14884a2-6b8b-4b7d-8163-c4dcc309e502")>
+2021-04-07 00:47:09,242   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:47:10,246   INFO   [punch_logger]   [test_001_commit.py(test_case_001:64)] - [script]:正在断言用户('梁宇亮', '2017050889')是否打卡成功
+2021-04-07 00:47:10,246   ERROR   [punch_logger]   [test_001_commit.py(test_case_001:72)] - 异常：False is not true
+2021-04-07 00:47:21,437   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="83ec5e33-b63b-4cfd-b907-700129ed32aa")>
+2021-04-07 00:47:21,437   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050878'
+2021-04-07 00:47:21,437   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:47:21,442   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:47:21,463   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050878'
+2021-04-07 00:47:21,531   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'Fanpeiyi123.'
+2021-04-07 00:47:21,531   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:47:21,538   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:47:21,546   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'Fanpeiyi123.'
+2021-04-07 00:47:21,595   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:47:21,595   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:47:21,596   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:47:22,853   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="83ec5e33-b63b-4cfd-b907-700129ed32aa")>
+2021-04-07 00:47:22,854   INFO   [punch_logger]   [page_commit.py(page_input_temperature:21)] - [page_commit]:正在输入今日体温：'36.5℃'
+2021-04-07 00:47:22,854   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:47:31,102   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:47:31,113   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36.5'
+2021-04-07 00:47:31,170   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:48)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:47:31,170   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:47:31,171   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:47:31,433   INFO   [punch_logger]   [page_commit.py(page_click_address:60)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:47:31,433   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:47:31,434   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:47:31,693   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:32)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:47:31,693   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:47:31,707   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:35)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:47:31,942   INFO   [punch_logger]   [page_commit.py(page_click_commit:42)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:47:31,942   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:47:31,942   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:47:32,182   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="83ec5e33-b63b-4cfd-b907-700129ed32aa")>
+2021-04-07 00:47:32,183   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:47:33,207   INFO   [punch_logger]   [test_001_commit.py(test_case_001:64)] - [script]:正在断言用户('樊佩沂', '2017050878')是否打卡成功
+2021-04-07 00:47:33,208   ERROR   [punch_logger]   [test_001_commit.py(test_case_001:72)] - 异常：False is not true
+2021-04-07 00:47:46,033   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="c89521d5-bc4a-490d-817a-1bbdf3cd4e3c")>
+2021-04-07 00:47:46,033   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050872'
+2021-04-07 00:47:46,033   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:47:46,038   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:47:46,069   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050872'
+2021-04-07 00:47:46,128   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'PRpaopao990924!'
+2021-04-07 00:47:46,129   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:47:46,134   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:47:46,147   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'PRpaopao990924!'
+2021-04-07 00:47:46,201   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:47:46,202   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:47:46,202   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:47:47,479   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="c89521d5-bc4a-490d-817a-1bbdf3cd4e3c")>
+2021-04-07 00:47:47,479   INFO   [punch_logger]   [page_commit.py(page_input_temperature:21)] - [page_commit]:正在输入今日体温：'36℃'
+2021-04-07 00:47:47,480   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:47:47,485   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:47:47,495   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36'
+2021-04-07 00:47:47,533   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:48)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:47:47,533   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:47:47,533   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:47:47,888   INFO   [punch_logger]   [page_commit.py(page_click_address:60)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:47:47,888   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:47:47,888   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:47:48,133   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:32)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:47:48,133   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:47:48,151   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:35)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:47:48,390   INFO   [punch_logger]   [page_commit.py(page_click_commit:42)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:47:48,390   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:47:48,390   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:47:48,703   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="c89521d5-bc4a-490d-817a-1bbdf3cd4e3c")>
+2021-04-07 00:47:48,703   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:47:49,722   INFO   [punch_logger]   [test_001_commit.py(test_case_001:64)] - [script]:正在断言用户('林良梁', '2017050872')是否打卡成功
+2021-04-07 00:47:49,722   INFO   [punch_logger]   [test_001_commit.py(test_case_001:67)] - [script]:用户('林良梁', '2017050872')打卡成功
+2021-04-07 00:48:00,419   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="a205b341-476d-4985-9679-3ae5d5c20f82")>
+2021-04-07 00:48:00,419   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017053799'
+2021-04-07 00:48:00,419   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:48:00,444   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:48:00,456   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017053799'
+2021-04-07 00:48:00,531   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'loveU233'
+2021-04-07 00:48:00,531   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:48:00,536   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:48:00,547   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'loveU233'
+2021-04-07 00:48:00,597   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:48:00,597   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:48:00,597   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:48:01,867   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="a205b341-476d-4985-9679-3ae5d5c20f82")>
+2021-04-07 00:48:01,868   INFO   [punch_logger]   [page_commit.py(page_input_temperature:21)] - [page_commit]:正在输入今日体温：'36℃'
+2021-04-07 00:48:01,868   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:48:01,882   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:48:01,905   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36'
+2021-04-07 00:48:01,950   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:48)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:48:01,951   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:48:01,951   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:48:02,246   INFO   [punch_logger]   [page_commit.py(page_click_address:60)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:48:02,246   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:48:02,246   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:48:02,484   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:32)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:48:02,485   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:48:02,512   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:35)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:48:02,733   INFO   [punch_logger]   [page_commit.py(page_click_commit:42)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:48:02,733   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:48:02,733   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:48:02,970   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="a205b341-476d-4985-9679-3ae5d5c20f82")>
+2021-04-07 00:48:02,971   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:48:03,989   INFO   [punch_logger]   [test_001_commit.py(test_case_001:64)] - [script]:正在断言用户('谢珂颖', '2017053799')是否打卡成功
+2021-04-07 00:48:03,990   INFO   [punch_logger]   [test_001_commit.py(test_case_001:67)] - [script]:用户('谢珂颖', '2017053799')打卡成功
+2021-04-07 00:48:20,509   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="2bda0c8c-7df1-410a-a451-c68c281752aa")>
+2021-04-07 00:48:20,509   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050889'
+2021-04-07 00:48:20,509   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:48:20,529   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:48:20,545   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050889'
+2021-04-07 00:48:20,609   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'LYLpanza0621FPY'
+2021-04-07 00:48:20,610   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:48:20,618   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:48:20,625   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'LYLpanza0621FPY'
+2021-04-07 00:48:20,675   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:48:20,676   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:48:20,676   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:48:21,937   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="2bda0c8c-7df1-410a-a451-c68c281752aa")>
+2021-04-07 00:48:21,937   INFO   [punch_logger]   [page_commit.py(page_input_temperature:21)] - [page_commit]:正在输入今日体温：'36℃'
+2021-04-07 00:48:21,938   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:48:21,950   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:48:21,965   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36'
+2021-04-07 00:48:22,005   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:48)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:48:22,005   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:48:22,005   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:48:22,434   INFO   [punch_logger]   [page_commit.py(page_click_address:60)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:48:22,434   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:48:22,434   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:48:22,691   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:32)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:48:22,691   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:48:22,701   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:35)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:48:22,944   INFO   [punch_logger]   [page_commit.py(page_click_commit:42)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:48:22,946   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:48:22,946   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:48:23,195   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="2bda0c8c-7df1-410a-a451-c68c281752aa")>
+2021-04-07 00:48:23,196   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:48:24,213   INFO   [punch_logger]   [test_001_commit.py(test_case_001:64)] - [script]:正在断言用户('梁宇亮', '2017050889')是否打卡成功
+2021-04-07 00:48:24,213   ERROR   [punch_logger]   [test_001_commit.py(test_case_001:72)] - 异常：False is not true
+2021-04-07 00:48:35,061   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="30cd3f99-8c39-4409-a196-e30188698e02")>
+2021-04-07 00:48:35,061   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050878'
+2021-04-07 00:48:35,061   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:48:35,088   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:48:35,100   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050878'
+2021-04-07 00:48:35,153   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'Fanpeiyi123.'
+2021-04-07 00:48:35,154   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:48:35,158   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:48:35,170   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'Fanpeiyi123.'
+2021-04-07 00:48:35,218   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:48:35,218   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:48:35,218   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:48:36,480   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="30cd3f99-8c39-4409-a196-e30188698e02")>
+2021-04-07 00:48:36,481   INFO   [punch_logger]   [page_commit.py(page_input_temperature:21)] - [page_commit]:正在输入今日体温：'36.5℃'
+2021-04-07 00:48:36,481   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:48:39,075   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:48:39,087   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36.5'
+2021-04-07 00:48:39,122   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:48)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:48:39,122   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:48:39,122   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:48:39,417   INFO   [punch_logger]   [page_commit.py(page_click_address:60)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:48:39,417   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:48:39,417   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:48:39,696   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:32)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:48:39,696   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:48:39,703   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:35)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:48:39,936   INFO   [punch_logger]   [page_commit.py(page_click_commit:42)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:48:39,937   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:48:39,937   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:48:40,172   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="30cd3f99-8c39-4409-a196-e30188698e02")>
+2021-04-07 00:48:40,172   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:48:41,192   INFO   [punch_logger]   [test_001_commit.py(test_case_001:64)] - [script]:正在断言用户('樊佩沂', '2017050878')是否打卡成功
+2021-04-07 00:48:41,192   ERROR   [punch_logger]   [test_001_commit.py(test_case_001:72)] - 异常：False is not true
+2021-04-07 00:57:50,698   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="6e5e8f56-8a07-4b4a-bb5f-716b50c26c3d")>
+2021-04-07 00:57:50,699   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050889'
+2021-04-07 00:57:50,699   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:57:50,703   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:57:50,723   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050889'
+2021-04-07 00:57:50,787   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'LYLpanza0621FPY'
+2021-04-07 00:57:50,787   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:57:50,792   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:57:50,803   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'LYLpanza0621FPY'
+2021-04-07 00:57:50,858   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:57:50,859   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:57:50,859   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:57:52,129   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="6e5e8f56-8a07-4b4a-bb5f-716b50c26c3d")>
+2021-04-07 00:57:52,130   INFO   [punch_logger]   [page_commit.py(page_input_temperature:22)] - [page_commit]:正在输入今日体温：'36℃'
+2021-04-07 00:57:52,130   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:57:52,139   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:57:52,153   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36'
+2021-04-07 00:57:52,186   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:49)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:57:52,186   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:57:52,186   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:57:52,469   INFO   [punch_logger]   [page_commit.py(page_click_address:61)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:57:52,470   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:57:52,470   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:57:52,745   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#person_c4')>，默认超时时间为30s
+2021-04-07 00:57:52,751   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#person_c4')>的内容，准备输入
+2021-04-07 00:57:52,767   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#person_c4')>输入'212'
+2021-04-07 00:57:52,873   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:33)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:57:52,873   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:57:52,904   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:36)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:57:53,134   INFO   [punch_logger]   [page_commit.py(page_click_commit:43)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:57:53,135   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:57:53,135   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:57:53,371   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="6e5e8f56-8a07-4b4a-bb5f-716b50c26c3d")>
+2021-04-07 00:57:53,371   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:57:54,384   INFO   [punch_logger]   [test_001_commit.py(test_case_001:67)] - [script]:正在断言用户('梁宇亮', '2017050889')是否打卡成功
+2021-04-07 00:57:54,384   ERROR   [punch_logger]   [test_001_commit.py(test_case_001:75)] - 异常：False is not true
+2021-04-07 00:58:06,048   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="19edef74-8a90-4ac1-85b4-1821a68d4e05")>
+2021-04-07 00:58:06,048   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050878'
+2021-04-07 00:58:06,049   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:58:06,085   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:58:06,097   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050878'
+2021-04-07 00:58:06,129   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'Fanpeiyi123.'
+2021-04-07 00:58:06,129   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:58:06,132   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:58:06,142   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'Fanpeiyi123.'
+2021-04-07 00:58:06,169   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:58:06,169   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:58:06,169   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:58:07,428   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="19edef74-8a90-4ac1-85b4-1821a68d4e05")>
+2021-04-07 00:58:07,428   INFO   [punch_logger]   [page_commit.py(page_input_temperature:22)] - [page_commit]:正在输入今日体温：'36.5℃'
+2021-04-07 00:58:07,429   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:58:07,433   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:58:07,443   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36.5'
+2021-04-07 00:58:07,465   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:49)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:58:07,465   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:58:07,465   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:58:07,727   INFO   [punch_logger]   [page_commit.py(page_click_address:61)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:58:07,728   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:58:07,728   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:58:07,989   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#person_c4')>，默认超时时间为30s
+2021-04-07 00:58:07,995   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#person_c4')>的内容，准备输入
+2021-04-07 00:58:08,002   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#person_c4')>输入'604'
+2021-04-07 00:58:08,021   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:33)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:58:08,022   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:58:08,035   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:36)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:58:08,281   INFO   [punch_logger]   [page_commit.py(page_click_commit:43)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:58:08,281   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:58:08,281   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:58:08,524   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="19edef74-8a90-4ac1-85b4-1821a68d4e05")>
+2021-04-07 00:58:08,524   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:58:09,534   INFO   [punch_logger]   [test_001_commit.py(test_case_001:67)] - [script]:正在断言用户('樊佩沂', '2017050878')是否打卡成功
+2021-04-07 00:58:09,535   ERROR   [punch_logger]   [test_001_commit.py(test_case_001:75)] - 异常：False is not true
+2021-04-07 00:58:17,133   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="e5faab6d-0627-4a6e-bb82-7dea8e08307a")>
+2021-04-07 00:58:17,133   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050872'
+2021-04-07 00:58:17,133   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:58:17,146   ERROR   [punch_logger]   [test_001_commit.py(test_case_001:75)] - 异常：Message: Browsing context has been discarded
+
+2021-04-07 00:59:32,008   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="13d33765-28f2-4797-8364-e018370818bc")>
+2021-04-07 00:59:32,009   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050889'
+2021-04-07 00:59:32,009   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:59:32,044   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:59:32,056   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050889'
+2021-04-07 00:59:32,111   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'LYLpanza0621FPY'
+2021-04-07 00:59:32,111   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:59:32,115   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:59:32,125   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'LYLpanza0621FPY'
+2021-04-07 00:59:32,174   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:59:32,174   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:59:32,174   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:59:33,448   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="13d33765-28f2-4797-8364-e018370818bc")>
+2021-04-07 00:59:33,449   INFO   [punch_logger]   [page_commit.py(page_input_temperature:22)] - [page_commit]:正在输入今日体温：'36℃'
+2021-04-07 00:59:33,449   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:59:42,937   ERROR   [punch_logger]   [test_001_commit.py(test_case_001:75)] - 异常：Message: Browsing context has been discarded
+
+2021-04-07 00:59:52,739   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="9d3cf03a-87fe-405d-a18b-2d30e2caade6")>
+2021-04-07 00:59:52,739   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050878'
+2021-04-07 00:59:52,739   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 00:59:52,745   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 00:59:52,770   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050878'
+2021-04-07 00:59:52,844   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'Fanpeiyi123.'
+2021-04-07 00:59:52,844   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 00:59:52,850   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 00:59:52,857   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'Fanpeiyi123.'
+2021-04-07 00:59:52,912   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 00:59:52,913   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 00:59:52,913   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 00:59:54,193   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="9d3cf03a-87fe-405d-a18b-2d30e2caade6")>
+2021-04-07 00:59:54,193   INFO   [punch_logger]   [page_commit.py(page_input_temperature:22)] - [page_commit]:正在输入今日体温：'36.5℃'
+2021-04-07 00:59:54,193   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#temperature')>，默认超时时间为30s
+2021-04-07 00:59:54,268   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#temperature')>的内容，准备输入
+2021-04-07 00:59:54,311   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#temperature')>输入'36.5'
+2021-04-07 00:59:54,364   INFO   [punch_logger]   [page_commit.py(page_click_is_healthy:49)] - [page_commit]:正在点击'正常'单选框
+2021-04-07 00:59:54,365   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='150']")>
+2021-04-07 00:59:54,365   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='150']")>，默认超时时间为30s
+2021-04-07 00:59:54,622   INFO   [punch_logger]   [page_commit.py(page_click_address:61)] - [page_commit]:正在点击'在校'单选框
+2021-04-07 00:59:54,622   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', "[for='3500']")>
+2021-04-07 00:59:54,622   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', "[for='3500']")>，默认超时时间为30s
+2021-04-07 00:59:54,886   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#person_c4')>，默认超时时间为30s
+2021-04-07 00:59:54,891   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#person_c4')>的内容，准备输入
+2021-04-07 00:59:54,909   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#person_c4')>输入'604'
+2021-04-07 00:59:54,954   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:33)] - [page_commit]:正在检查“本人承诺上述情况真实”的复选框是否已点选
+2021-04-07 00:59:54,955   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#\\31 0000')>，默认超时时间为30s
+2021-04-07 00:59:54,974   INFO   [punch_logger]   [page_commit.py(page_click_promise_checkbox:36)] - [page_commit]:“本人承诺上述情况真实”的复选框未点选，正在点击
+2021-04-07 00:59:55,219   INFO   [punch_logger]   [page_commit.py(page_click_commit:43)] - [page_commit]:已填写完所有信息，正在点击提交按钮
+2021-04-07 00:59:55,220   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '#tj')>
+2021-04-07 00:59:55,220   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#tj')>，默认超时时间为30s
+2021-04-07 00:59:55,495   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="9d3cf03a-87fe-405d-a18b-2d30e2caade6")>
+2021-04-07 00:59:55,495   INFO   [punch_logger]   [page_complete.py(page_punch_is_successful:16)] - [page_complete]正在判断打卡是否成功
+2021-04-07 00:59:56,501   INFO   [punch_logger]   [test_001_commit.py(test_case_001:67)] - [script]:正在断言用户('樊佩沂', '2017050878')是否打卡成功
+2021-04-07 00:59:56,501   INFO   [punch_logger]   [test_001_commit.py(test_case_001:70)] - [script]:用户('樊佩沂', '2017050878')打卡成功
+2021-04-07 01:00:08,834   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="c46fc0cb-09ab-45de-be7f-f29f2b167cd3")>
+2021-04-07 01:00:08,834   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017050872'
+2021-04-07 01:00:08,835   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 01:00:08,852   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 01:00:08,866   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017050872'
+2021-04-07 01:00:08,919   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'PRpaopao990924!'
+2021-04-07 01:00:08,919   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 01:00:08,925   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 01:00:08,937   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'PRpaopao990924!'
+2021-04-07 01:00:08,990   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 01:00:08,990   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 01:00:08,991   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 01:00:10,252   WARNING   [punch_logger]   [test_001_commit.py(test_case_001:60)] - [script]:用户'林良梁'今日已打卡
+2021-04-07 01:00:21,001   INFO   [punch_logger]   [base.py(__init__:12)] - [base]:正在实例化浏览器驱动对象driver:<selenium.webdriver.firefox.webdriver.WebDriver (session="d247ab9b-e74f-4b88-8ab0-67edb6505653")>
+2021-04-07 01:00:21,002   INFO   [punch_logger]   [page_login.py(page_input_student_num:19)] - [page_login]:正在输入账号：'2017053799'
+2021-04-07 01:00:21,002   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#zh')>，默认超时时间为30s
+2021-04-07 01:00:21,031   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#zh')>的内容，准备输入
+2021-04-07 01:00:21,042   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#zh')>输入'2017053799'
+2021-04-07 01:00:21,106   INFO   [punch_logger]   [page_login.py(page_input_password:24)] - [page_login]:正在输入密码：'loveU233'
+2021-04-07 01:00:21,107   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '#passw')>，默认超时时间为30s
+2021-04-07 01:00:21,112   INFO   [punch_logger]   [base.py(base_input:35)] - [base]:正在清空元素<('css selector', '#passw')>的内容，准备输入
+2021-04-07 01:00:21,122   INFO   [punch_logger]   [base.py(base_input:38)] - [base]:正在向元素<('css selector', '#passw')>输入'loveU233'
+2021-04-07 01:00:21,169   INFO   [punch_logger]   [page_login.py(page_click_login:29)] - [page_login]:正在点击登录按钮
+2021-04-07 01:00:21,170   INFO   [punch_logger]   [base.py(base_click:29)] - [base]:正在点击元素：<('css selector', '.btn')>
+2021-04-07 01:00:21,170   INFO   [punch_logger]   [base.py(base_find_element:17)] - [base]:正在定位元素:<('css selector', '.btn')>，默认超时时间为30s
+2021-04-07 01:00:22,458   WARNING   [punch_logger]   [test_001_commit.py(test_case_001:60)] - [script]:用户'谢珂颖'今日已打卡
